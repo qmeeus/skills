@@ -164,6 +164,12 @@ General workflow tools, not code-specific.
 - **[ralph](./skills/productivity/ralph/SKILL.md)** — Issue planning and atomic commit methodology. Plan work, implement with independently-valid commits, and enforce pre-commit quality gates.
 - **[write-a-skill](./skills/productivity/write-a-skill/SKILL.md)** — Create new skills with proper structure, progressive disclosure, and bundled resources.
 
+### CLI Utilities
+
+Command-line utility skills for common tooling.
+
+- **[jq](./skills/cli_utils/jq/SKILL.md)** — Query, filter, and transform JSON using the jq DSL.
+
 ### Misc
 
 Tools I keep around but rarely use.

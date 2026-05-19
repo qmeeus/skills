@@ -10,6 +10,7 @@
     "./skills/engineering/to-issues",
     "./skills/engineering/to-prd",
     "./skills/engineering/zoom-out",
+    "./skills/cli_utils/jq",
     "./skills/productivity/caveman",
     "./skills/productivity/git-workflow",
     "./skills/productivity/grill-me",
