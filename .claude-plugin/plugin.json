@@ -11,10 +11,12 @@
     "./skills/engineering/to-prd",
     "./skills/engineering/zoom-out",
     "./skills/cli_utils/jq",
+    "./skills/engineering/prototype",
     "./skills/productivity/caveman",
     "./skills/productivity/git-workflow",
     "./skills/productivity/grill-me",
     "./skills/productivity/ralph",
+    "./skills/productivity/handoff",
     "./skills/productivity/write-a-skill"
   ]
 }
